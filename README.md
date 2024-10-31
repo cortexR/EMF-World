@@ -1,4 +1,6 @@
-![Logo](./images/emf-world_logo.png)
+<p align="center">
+  <img src="./assets/emf-world_logo.png" alt="EMF World Logo" width="200"/>
+</p>
 
 
 # EMF-World
