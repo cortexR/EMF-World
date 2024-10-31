@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-**Initiatior:** Mads Rohde. **Contact:** madsrohde@proton.me.
+<strong>Initiatior:</strong> Mads Rohde. 
+<br>
+<strong>Contact:</strong> madsrohde@proton.me.
 </p>
 
 # EMF-World
