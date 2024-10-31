@@ -2,7 +2,9 @@
   <img src="./images/emf-world_logo.png" alt="EMF World Logo" width="200"/>
 </p>
 
+<p align="center">
 **Initiatior:** Mads Rohde. **Contact:** madsrohde@proton.me.
+</p>
 
 # EMF-World
 An open science project the subject of non-ionizing electromagnetic fields (radiation) and their biological and health effects.
