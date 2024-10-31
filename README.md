@@ -20,13 +20,13 @@ An open science project the subject of non-ionizing electromagnetic fields (radi
 
 If you use **EMF World** in your research or projects, please cite it as follows:
 
-Author(s). EMF World. GitHub repository, 2024. Available at: [https://github.com/cortexR/EMF-World](https://github.com/cortexR/EMF-World)
+Rohde MK. EMF World. GitHub repository, 2024. Available at: [https://github.com/cortexR/EMF-World](https://github.com/cortexR/EMF-World)
 
 Or use this BibTeX entry:
 
 ```bibtex
 @misc{EMFWorld,
-  author = {Author(s) or Team Name},
+  author = {Rohde, Mads K},
   title = {EMF World},
   year = {2024},
   publisher = {GitHub},
