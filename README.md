@@ -8,7 +8,7 @@
 <strong>Contact:</strong> madsrohde@proton.me.
 </p>
 
-# EMF-World
+# EMF World
 An open science project the subject of non-ionizing electromagnetic fields (radiation) and their biological and health effects.
 
 ## Sub-projects
