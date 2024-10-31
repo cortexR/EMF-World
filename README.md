@@ -16,9 +16,6 @@ An open science project the subject of non-ionizing electromagnetic fields (radi
 * EMF Science Literature
 * EMF Limits
 
-
-## Citation
-
 ## Citation
 
 If you use **EMF World** in your research or projects, please cite it as follows:
