@@ -1,4 +1,4 @@
-![Logo](./images/emf_world_logo_blank_background.png)
+![Logo](./images/emf-world_logo.png)
 
 
 # EMF-World
